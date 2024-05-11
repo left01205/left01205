@@ -17,7 +17,7 @@
 <p align="center">
   <samp>
     🔭 I’m currently studying Btech (Hons) in CSE AI<br>
-    🌱 I’m currently learning C++, Data Structures, Python for Data Science<br>
+    🌱 I’m currently learning C++, Data Structures, Python for Data Science,Rust,Blender(Animation,VFX,CGI)<br>
     💬 Ask me about Python, C, C++, Microsoft Excel, Word<br>
     ⚡ Looking for collaboration opportunities<br>
   </samp>
@@ -34,10 +34,11 @@
      <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML">&nbsp;&nbsp;
     <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS">&nbsp;&nbsp;
     <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript">&nbsp;&nbsp;
+    <img src="https://img.icons8.com/color/48/000000/rust.png" alt="RUST">&nbsp;&nbsp;
+    <img src="https://github.com/left01205/Assets/blob/main/blender_community_badge_white.png" alt="BLENDER">&nbsp;&nbsp;
     <img src="https://img.icons8.com/color/48/000000/communication.png" alt="Communication">
   </samp>
 </p>
-###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=left01205&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="300" alt="languages graph"  />
 
