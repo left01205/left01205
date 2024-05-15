@@ -7,7 +7,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arnav-jha-496b26296">LinkedIn</a> |
-  <a href="https://www.instagram.com/left_01205/">Instagram</a>
+  <a href="https://www.instagram.com/left_01205/">Instagram</a>|
+  <a href="https://twitter.com/left01205">X(Twitter)</a>
 </p>
 
 <!-- Add this code where you want to display the total commits in your README -->
@@ -51,6 +52,9 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/arnav-jha-496b26296">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/left01205">
+    <img src="https://img.shields.io/badge/X(Twitter)-0A66C2?style=for-the-badge&logo=X&logoColor=black" alt="X">
   </a>
   <a href="https://www.instagram.com/left_01205/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
