@@ -36,6 +36,7 @@
     <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS">&nbsp;&nbsp;
     <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript">&nbsp;&nbsp;
     <img src="https://img.icons8.com/color/48/000000/rust.png" alt="RUST">&nbsp;&nbsp;
+    <img src="https://github.com/left01205/Assets/blob/main/Download.png" alt="Clojure">&nbsp;&nbsp;
     <img src="https://github.com/left01205/Assets/blob/main/blender_community_badge_white.png" alt="BLENDER">&nbsp;&nbsp;
     <img src="https://img.icons8.com/color/48/000000/communication.png" alt="Communication">
   </samp>
