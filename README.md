@@ -43,10 +43,12 @@
 </p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=left01205&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="300" alt="languages graph"  />
+  
 
 ###
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=left01205&show_icons=true&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="300" alt="left01205" />
 
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=left01205&" alt="left01205" /></p>
 ###
 
 <h2 align="center">Connect with Me</h2>
