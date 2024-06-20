@@ -18,8 +18,8 @@
 <p align="center">
   <samp>
     🔭 I’m currently studying Btech (Hons) in CSE AI<br>
-    🌱 I’m currently learning C++, Data Structures, Python for Data Science,Rust,Blender(Animation,VFX,CGI)<br>
-    💬 Ask me about Python, C, C++, Microsoft Excel, Word<br>
+    🌱 I’m currently learning C++, Data Structures, Python,Rust,Blender(Animation,VFX,CGI)<br>
+    💬 Ask me about Python, C, C++, Blender, Data Visualisation<br>
     ⚡ Looking for collaboration opportunities<br>
   </samp>
 </p>
