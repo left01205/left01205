@@ -70,6 +70,7 @@
     Here are some projects I'm proud of:<br>
     - [ES Waste Management System][AI based model: Eco Lens]
     -Won Consolation prize for that from NIT Raipur Alumini Association.
+    -Got an opportunity to showcase our project in 2024 6th IEEE International conference on Electrical, Computer and Communication Technologies.
   </samp>
 </p>
 <p align="center">
