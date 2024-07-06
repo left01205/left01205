@@ -75,6 +75,6 @@
 </p>
 <p align="center">
   <samp>
-    Feel free to explore my repositories and don't hesitate to connect with me!
+    Feel free to explore my repositories and feel free to connect with me :D!
   </samp>
 </p>
