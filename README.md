@@ -33,6 +33,7 @@
     <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Microsoft Excel">&nbsp;&nbsp;
     <img src="https://img.icons8.com/color/48/000000/microsoft-word-2019.png" alt="Microsoft Word">
      <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML">&nbsp;&nbsp;
+    <img src="https://github.com/left01205/Assets/blob/main/java.jpg" alt="JAVA">&nbsp;&nbsp;
     <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS">&nbsp;&nbsp;
     <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript">&nbsp;&nbsp;
     <img src="https://img.icons8.com/color/48/000000/rust.png" alt="RUST">&nbsp;&nbsp;
